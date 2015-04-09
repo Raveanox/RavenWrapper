@@ -7,7 +7,7 @@ autoSave=True
 #AutoSave Every X seconds? [Default = 300 (5 minutes)]
 saveX=300
 
-#Path to server start script
+#Full path to server start script (Must CD to server directory and start java)
 startScript="/home/user/mcserver/start.sh"
 
 #AutoRestart [Default: True]
