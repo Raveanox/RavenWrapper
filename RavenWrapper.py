@@ -15,7 +15,7 @@ def main_loop():
 	screen = Screen(screenName)
 	while True:
 		if screen.exists:
-			print("Server Stable...")
+			#print("Server Stable...")
 		else:
 			if hasStartedBefore == False:
 				print("Starting the server...")
